@@ -1,0 +1,89 @@
+/*-------------------
+       Sumit
+--------------------*/
+
+@media screen and (max-width:1130px){
+.nav{
+	display:none;
+}
+.header{
+	
+	width:80%;
+	
+}
+
+#R-section{
+	
+	height:38px;
+	
+}
+.R-nav{
+	max-width:100%;
+	background-color:#fff;
+	height:38px;
+	border-bottom:none;
+	
+	
+}
+.R-nav ul{
+	background-color:#fff;
+	list-style-type:none;
+	
+}
+.R-nav ul li{
+	display:inline-block;
+	border-right:1px solid	#6B710E;
+}
+.R-nav ul li:last-child{
+	border:none
+}
+.R-nav ul li a{
+	text-decoration:none;
+	color:#7A7F25;
+	
+	padding:4px 20px;
+	font-family:arial;
+}
+.R-nav ul li a:hover{
+	color:#FAB72A;
+}
+
+
+
+
+
+
+.R-nav ul li ul{
+	display:none;
+	background:#fff;
+	
+}
+.R-nav ul li:hover ul{
+	display:block;
+	position: absolute;
+	z-index:999px;
+	
+}
+.nav ul li:hover ul li{
+	display:block;
+	padding: 5px 10px;
+	text-align:left;
+	
+	
+}
+
+
+}
+
+@media screen and (min-width: 1130px) and (max-width: 2760px){
+.R-nav{
+	display:none;
+}
+#R-section{
+	
+	height:0px;
+	
+}
+
+
+}

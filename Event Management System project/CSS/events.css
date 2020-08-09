@@ -1,0 +1,108 @@
+/*-------------------
+    third-section
+--------------------*/
+.container{
+	max-width:1170px;
+	margin:0 auto;
+	padding: 5px 0;
+	overflow:hidden;
+}
+
+
+#first-section{
+	background-color:#91A2C6;
+
+}
+.logo{
+	background-color:#91A2C6;
+}
+.header{
+	color:black;
+}
+.nav{
+	background-color:#91A2C6;
+}
+.nav ul{
+	background-color:#91A2C6;
+}	
+.nav ul li a{
+	color:black;
+}
+.nav ul li ul li a{
+	color:green;
+}	
+	
+
+#w_one-section{
+	padding-bottom:50px;
+}
+.w_one-top{
+	padding-top:40px;
+	padding-bottom:10px;
+	border-bottom:1px solid #6B710E;
+}
+.w_one-top h2{
+	font-size:50px;
+	color:black;
+	text-shadow:1px 2px 1px #799B2B;
+}
+
+/*-------------------
+    ten-section
+--------------------*/
+#w_two-section{
+	padding:40px;
+	background-color:#A1A1A1;
+
+}
+#fourth-section{
+	
+}
+
+.vanues{
+
+}
+.A{
+	max-width:40%;
+	float:left;
+	text-align:center;
+	margin-left:100px;
+	color:black;
+}
+.A h2{
+	font-size:20px;
+	color:green;
+}
+.A img{
+	height:200px;
+	width:250px;
+}
+.booking{
+	width:30%;
+	height:100px;
+	margin-top:20px;
+	padding-top:10px;
+	text-align:center;
+	float:left;
+	margin-left:35%;
+	color:green;
+	background-color:white;
+	
+}
+.notice{
+	text-align:center;
+	padding-top:40px;
+	padding-bottom:10px;
+	
+}
+.notice h2{
+	border-bottom:1px solid #6B710E;
+	font-size:50px;
+	color:red;
+	text-shadow:1px 2px 1px #799B2B;
+}
+.notice p{
+	font-size:30px;
+	color:black;
+	
+}
